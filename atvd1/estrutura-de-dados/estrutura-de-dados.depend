@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698175115 source:c:\users\lucas\onedrive\Área de trabalho\estrutura-de-dados\estrutura-de-dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1698175225 c:\users\lucas\onedrive\Área de trabalho\estrutura-de-dados\estrutura-de-dados\pilha.h
+
