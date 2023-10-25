@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698264726 source:c:\users\lucas\onedrive\Área de trabalho\estrutura-de-dados\3-lista\listaatvd3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1698264726 c:\users\lucas\onedrive\Área de trabalho\estrutura-de-dados\3-lista\listaatvd3\lista.h
+
